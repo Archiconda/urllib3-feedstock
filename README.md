@@ -1,6 +1,8 @@
 About urllib3
 =============
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: https://urllib3.readthedocs.io/
 
 Package license: MIT
@@ -17,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/urllib3-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/urllib3-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/urllib3-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/urllib3-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/urllib3-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/urllib3-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c32cadf4e246e0700cedb14/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/urllib3-feedstock)
 
 Current release info
 ====================
@@ -104,3 +107,11 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@ocefpaf](https://github.com/ocefpaf/)
+* [@pmlandwehr](https://github.com/pmlandwehr/)
+* [@sigmavirus24](https://github.com/sigmavirus24/)
+
